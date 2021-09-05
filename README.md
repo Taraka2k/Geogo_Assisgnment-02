@@ -1,2 +1,2 @@
 # WeatherForecastTemplate
- https://taraka2k.github.io/Geogo_WeatherForecast/
+https://taraka2k.github.io/Geogo_Assisgnment-02/
